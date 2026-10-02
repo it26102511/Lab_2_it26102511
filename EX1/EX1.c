@@ -1,6 +1,6 @@
 # include <stdio.h>
 int main(void)
 {
-	printf ("Hello world\n");
+	printf ("Hello! Welcome to SLIIT\n");
 	return 0;
 }
